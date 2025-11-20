@@ -8,9 +8,6 @@ Built an AI-driven computer vision pipeline to detect early osteoporosis using X
 Osteoporosis is a widespread but often undiagnosed condition, affecting over 200 million people globally. Early detection is difficult because the disease is mostly “silent” until fractures occur. This project aims to determine whether machine learning and medical imaging can reliably predict osteoporosis risk in adults aged 35–80 using bone density measurements, demographic variables, and X-ray imaging.
 Achieving accurate early prediction has the potential to improve clinical decision-making, reduce fracture risk, and make screening more accessible.
 
-*EXAMPLE:*
-*Given the substantial daily output of responses, the identification and mitigation of ChatGPT's biases become critical, safeguarding both the multitude of users and the far-reaching consequences they may influence.*
-
 ## Key Results <!--- do not change this line -->
 
  -Performed extensive data cleaning and preprocessing on real-world osteoporosis X-ray datasets.
@@ -27,7 +24,6 @@ Achieving accurate early prediction has the potential to improve clinical decisi
 
 ## Methodologies <!--- do not change this line -->
 
-(UPDATE IN README.md)
 
 To build a reliable prediction model, we:
 
@@ -46,17 +42,11 @@ Identified and addressed dataset bias through augmentation, SMOTE, and demograph
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
 Multi-Class Knee Osteoporosis X-Ray Dataset https://www.kaggle.com/datasets/mohamedgobara/multi-class-knee-osteoporosis-x-ray-dataset/data
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-Python
-
+-Python
 -NumPy & pandas
 -TensorFlow / Keras
 -PyTorch (optional depending on your implementation)
@@ -70,12 +60,10 @@ Python
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
 
 *EXAMPLE:*
 *This project was completed in collaboration with:*
 - Sampada Niroula
--Dia Poudel
--Michael Montanez
--Sydney Eze
+- Dia Poudel
+- Michael Montanez
+- Sydney Eze
